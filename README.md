@@ -6,7 +6,9 @@ This project performs a weather comparison for two months on the island of Oahu 
 
 ## Results
 
-All temperature data for the months of June and December was extracted from the provided dataset. The data was then used to calculate summary statistics for each individual month. The summary statistics are compared and used to help the investor make a decision.
+All temperature data for the months of June and December was extracted from the provided dataset. The data was then used to calculate summary statistics for each individual month. The summary statistics are compared and used to help the investor make a decision. 
+
+Below are the summary statistic tables side by side. June is on the left and December is on the right.
 
 ![June_Summary_Statistics](/Resources/June_Summary_Statistics.png)
 ![December_Summary_Statistics](/Resources/December_Summary_Statistics.png)
