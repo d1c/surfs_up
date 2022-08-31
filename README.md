@@ -2,11 +2,14 @@
 
 ## Analysis Overview
 
-This project compares the weather for two months for the island of Oahu in Hawaii. This is the location where an investor is considering an investment in a new surf shop business. The investor is concerned about the weather and asked that weather data for Oahu be analyzed to determine if this is the best place to open a new surf shop. 
-
-For this purpose, all temperature data for the months of June and December will be extracted from the provided dataset. The data will then be used to calculate summary statistics for each month individually. The summary statistics will be compared and used to help the investor make a decision.
+This project performs a weather comparison for two months on the island of Oahu in Hawaii. This is the location where an investor is considering an investment in a new surf shop business. The investor is concerned about the weather asking that weather data for Oahu be analyzed to determine if this is the best place to open a surf shop. 
 
 ## Results
+
+All temperature data for the months of June and December was extracted from the provided dataset. The data was then used to calculate summary statistics for each individual month. The summary statistics are compared and used to help the investor make a decision.
+
+![June_Summary_Statistics](/Resources/June_Summary_Statistics.png)
+![December_Summary_Statistics](/Resources/December_Summary_Statistics.png)
 
 * The total count of data shows there were 183 fewer measurements for the month of December than for January.
 * The temperature readings for the months of June and January are remarkably similar when comparing the Average (Mean), Minimum and Maximum temperature readings.
